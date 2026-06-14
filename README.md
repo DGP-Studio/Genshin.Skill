@@ -96,7 +96,7 @@
 
 ### 枫丹
 
-- 芙宁娜
+- [**芙宁娜**](furina-perspective/SKILL.md) ✅
 - 娜维娅
 - 夏洛蒂
 - 莱欧斯利
