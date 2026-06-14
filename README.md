@@ -33,7 +33,7 @@
 | ✅ [**可莉**](klee-perspective/SKILL.md) | 甘雨 | 荒泷一斗 | 流浪者 | 娜维娅 | 伊安珊 | 莉奈娅 |
 | 菲谢尔 | 刻晴 | 八重神子 | 珐露珊 | 希格雯 | 瓦雷莎 | ✅ [**尼可**](nicole-perspective/SKILL.md) |
 | 班尼特 | 辛焱 | 鹿野院平藏 | 艾尔海森 | 阿蕾奇诺 | 爱可菲 |  |
-| 达达利亚 | ✅ [胡桃](hutao-perspective/SKILL.md) | 绮良良 | 迪希雅 | 克洛琳德 | 伊法 |  |
+| 达达利亚 | ✅ [胡桃](hutao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | 迪希雅 | 克洛琳德 | 伊法 |  |
 | 诺艾尔 | 枫原万叶 | 久岐忍 | 卡维 | 艾梅莉埃 | 丝柯克 |  |
 | 阿贝多 | 烟绯 | 神里绫人 | 赛索斯 |  |  |  |
 | 迪奥娜 | 夜兰 | 千织 |  |  |  |  |
