@@ -25,7 +25,7 @@
 | 琴 | 香菱 | 神里绫华 | 柯莱 | 琳妮特 | 卡齐娜 | 伊涅芙 |
 | 丽莎 | 北斗 | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | 多莉 | 林尼 | 基尼奇 | 菈乌玛 |
 | 芭芭拉 | 行秋 | 托马 | 提纳里 | 菲米尼 | 玛拉妮 | 菲林斯 |
-| 凯亚 | 魈 | 雷电将军 | 妮露 | 莱欧斯利 | 希诺宁 | 爱诺 |
+| 凯亚 | 魈 | 雷电将军 | ✅ [**妮露**](nilou-perspective/SKILL.md) | 莱欧斯利 | 希诺宁 | 菲林斯 |
 | 迪卢克 | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 奈芙尔 |
 | 雷泽 | 钟离 | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | 雅珂达 |
 | 安柏 | 七七 | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | 玛薇卡 | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
