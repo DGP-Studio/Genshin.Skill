@@ -27,7 +27,7 @@
 | 芭芭拉 | 行秋 | 托马 | 提纳里 | 菲米尼 | 玛拉妮 | 菲林斯 |
 | 凯亚 | 魈 | 雷电将军 | 妮露 | 莱欧斯利 | 希诺宁 | 爱诺 |
 | 迪卢克 | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 奈芙尔 |
-| 雷泽 | 钟离 | 珊瑚宫心海 | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | 雅珂达 |
+| 雷泽 | 钟离 | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | 雅珂达 |
 | 安柏 | 七七 | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | 玛薇卡 | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
 | 温迪 | 重云 | 九条裟罗 | 莱依拉 | 夏沃蕾 | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | 叶洛亚 |
 | ✅ [**可莉**](klee-perspective/SKILL.md) | 甘雨 | 荒泷一斗 | 流浪者 | 娜维娅 | 伊安珊 | 莉奈娅 |
