@@ -40,7 +40,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | 迪卢克 | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 奈芙尔 |
 | 雷泽 | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | 雅珂达 |
 | 安柏 | 七七 | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
-| 温迪 | 重云 | 九条裟罗 | 莱依拉 | 夏沃蕾 | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | 叶洛亚 |
+| ✅ [**温迪**](venti-perspective/SKILL.md) | 重云 | 九条裟罗 | 莱依拉 | 夏沃蕾 | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | 叶洛亚 |
 | ✅ [**可莉**](klee-perspective/SKILL.md) | ✅ [**甘雨**](ganyu-perspective/SKILL.md) | 荒泷一斗 | 流浪者 | 娜维娅 | 伊安珊 | ✅ [**莉奈娅**](linnea-perspective/SKILL.md) |
 | 菲谢尔 | ✅ [**刻晴**](keqing-perspective/SKILL.md) | ✅ [**八重神子**](yae-miko-perspective/SKILL.md) | 珐露珊 | 希格雯 | ✅ [**瓦雷莎**](varesa-perspective/SKILL.md) | ✅ [**尼可**](nicole-perspective/SKILL.md) |
 | 班尼特 | 辛焱 | 鹿野院平藏 | 艾尔海森 | ✅ [**阿蕾奇诺**](arlecchino-perspective/SKILL.md) | 伊法 |  |
