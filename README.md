@@ -35,7 +35,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 |:-|:-|:-|:-|:-|:-|:-|
 | ✅ [**琴**](jean-perspective/SKILL.md) | 香菱 | ✅ [**神里绫华**](kamisato-ayaka-perspective/SKILL.md) | 柯莱 | 琳妮特 | 卡齐娜 | 伊涅芙 |
 | 丽莎 | 北斗 | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | 多莉 | 林尼 | 基尼奇 | 菈乌玛 |
-| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | 行秋 | 托马 | 提纳里 | 菲米尼 | 玛拉妮 | 菲林斯 |
+| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | 行秋 | 托马 | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | 菲米尼 | 玛拉妮 | 菲林斯 |
 | 凯亚 | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | 莱欧斯利 | 希诺宁 | 爱诺 |
 | 迪卢克 | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 奈芙尔 |
 | 雷泽 | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | 雅珂达 |
