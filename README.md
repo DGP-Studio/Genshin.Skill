@@ -39,7 +39,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | 凯亚 | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | ✅ [**莱欧斯利**](wriothesley-perspective/SKILL.md) | 希诺宁 | 奈芙尔 |
 | ✅ [**迪卢克**](diluc-perspective/SKILL.md) | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 雅珂达 |
 | 雷泽 | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
-| 安柏 | 七七 | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | 叶洛亚 |
+| 安柏 | ✅ [**七七**](qiqi-perspective/SKILL.md) | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | 叶洛亚 |
 | ✅ [**温迪**](venti-perspective/SKILL.md) | 重云 | 九条裟罗 | 莱依拉 | 夏沃蕾 | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | ✅ [**莉奈娅**](linnea-perspective/SKILL.md) |
 | ✅ [**可莉**](klee-perspective/SKILL.md) | ✅ [**甘雨**](ganyu-perspective/SKILL.md) | ✅ [**荒泷一斗**](arataki-itto-perspective/SKILL.md) | 流浪者 | 娜维娅 | 伊安珊 | ✅ [**尼可**](nicole-perspective/SKILL.md) |
 | 菲谢尔 | ✅ [**刻晴**](keqing-perspective/SKILL.md) | ✅ [**八重神子**](yae-miko-perspective/SKILL.md) | 珐露珊 | 希格雯 | ✅ [**瓦雷莎**](varesa-perspective/SKILL.md) |  |
