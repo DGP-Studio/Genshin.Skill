@@ -46,7 +46,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | 班尼特 | 辛焱 | 鹿野院平藏 | 艾尔海森 | ✅ [**阿蕾奇诺**](arlecchino-perspective/SKILL.md) | 伊法 |  |
 | 达达利亚 | ✅ [胡桃](hutao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | 迪希雅 | 克洛琳德 | ✅ [**丝柯克**](skirk-perspective/SKILL.md) |  |
 | 诺艾尔 | 枫原万叶 | 久岐忍 | 卡维 | 艾梅莉埃 | 伊涅芙 |  |
-| 阿贝多 | 烟绯 | 神里绫人 | 赛索斯 | 爱可菲 |  |  |
+| 阿贝多 | 烟绯 | ✅ [**神里绫人**](kamisato-ayato-perspective/SKILL.md) | 赛索斯 | 爱可菲 |  |  |
 | 迪奥娜 | 夜兰 | 千织 |  |  |  |  |
 | 莫娜 | 申鹤 | ✅ [**梦见月瑞希**](yumemizuki-mizuki-perspective/SKILL.md) |  |  |  |  |
 | 砂糖 | 云堇 |  |  |  |  |  |
