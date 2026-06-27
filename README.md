@@ -37,7 +37,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | 丽莎 | 北斗 | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | 多莉 | 林尼 | ✅ [**基尼奇**](kinich-perspective/SKILL.md) | 菲林斯 |
 | ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | 行秋 | 托马 | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | 菲米尼 | 玛拉妮 | 爱诺 |
 | 凯亚 | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | ✅ [**莱欧斯利**](wriothesley-perspective/SKILL.md) | 希诺宁 | 奈芙尔 |
-| ✅ [**迪卢克**](diluc-perspective/SKILL.md) | 凝光 | 早柚 | 赛诺 | 那维莱特 | 恰斯卡 | 雅珂达 |
+| ✅ [**迪卢克**](diluc-perspective/SKILL.md) | 凝光 | 早柚 | ✅ [**赛诺**](cyno-perspective/SKILL.md) | 那维莱特 | 恰斯卡 | 雅珂达 |
 | 雷泽 | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
 | 安柏 | ✅ [**七七**](qiqi-perspective/SKILL.md) | 五郎 | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | 叶洛亚 |
 | ✅ [**温迪**](venti-perspective/SKILL.md) | 重云 | 九条裟罗 | 莱依拉 | 夏沃蕾 | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | ✅ [**莉奈娅**](linnea-perspective/SKILL.md) |
