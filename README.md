@@ -33,9 +33,9 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 
 | 蒙德 | 璃月 | 稻妻 | 须弥 | 枫丹 | 纳塔 | 挪德卡莱 |
 |:-|:-|:-|:-|:-|:-|:-|
-| ✅ [**琴**](jean-perspective/SKILL.md) | 香菱 | ✅ [**神里绫华**](kamisato-ayaka-perspective/SKILL.md) | 柯莱 | 琳妮特 | 卡齐娜 | ✅ [**菈乌玛**](lauma-perspective/SKILL.md) |
-| 丽莎 | 北斗 | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | 多莉 | ✅ [**林尼**](lyney-perspective/SKILL.md) | ✅ [**基尼奇**](kinich-perspective/SKILL.md) | 菲林斯 |
-| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | 行秋 | 托马 | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | 菲米尼 | 玛拉妮 | 爱诺 |
+| ✅ [**琴**](jean-perspective/SKILL.md) | ✅ [**香菱**](xiangling-perspective/SKILL.md) | ✅ [**神里绫华**](kamisato-ayaka-perspective/SKILL.md) | ✅ [**柯莱**](collei-perspective/SKILL.md) | ✅ [**琳妮特**](lynette-perspective/SKILL.md) | ✅ [**卡齐娜**](kachina-perspective/SKILL.md) | ✅ [**菈乌玛**](lauma-perspective/SKILL.md) |
+| ✅ [**丽莎**](lisa-perspective/SKILL.md) | ✅ [**北斗**](beidou-perspective/SKILL.md) | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | ✅ [**多莉**](dori-perspective/SKILL.md) | ✅ [**林尼**](lyney-perspective/SKILL.md) | ✅ [**基尼奇**](kinich-perspective/SKILL.md) | ✅ [**菲林斯**](flins-perspective/SKILL.md) |
+| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | ✅ [**行秋**](xingqiu-perspective/SKILL.md) | ✅ [**托马**](thoma-perspective/SKILL.md) | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | ✅ [**菲米尼**](freminet-perspective/SKILL.md) | ✅ [**玛拉妮**](mualani-perspective/SKILL.md) | 爱诺 |
 | 凯亚 | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | ✅ [**莱欧斯利**](wriothesley-perspective/SKILL.md) | 希诺宁 | 奈芙尔 |
 | ✅ [**迪卢克**](diluc-perspective/SKILL.md) | 凝光 | 早柚 | ✅ [**赛诺**](cyno-perspective/SKILL.md) | 那维莱特 | 恰斯卡 | 雅珂达 |
 | 雷泽 | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | 坎蒂丝 | 夏洛蒂 | 欧洛伦 | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
