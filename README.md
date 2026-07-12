@@ -44,7 +44,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | ✅ [**可莉**](klee-perspective/SKILL.md) | ✅ [**甘雨**](ganyu-perspective/SKILL.md) | ✅ [**荒泷一斗**](arataki-itto-perspective/SKILL.md) | 流浪者 | 娜维娅 | 伊安珊 | ✅ [**尼可**](nicole-perspective/SKILL.md) |
 | 菲谢尔 | ✅ [**刻晴**](keqing-perspective/SKILL.md) | ✅ [**八重神子**](yae-miko-perspective/SKILL.md) | 珐露珊 | 希格雯 | ✅ [**瓦雷莎**](varesa-perspective/SKILL.md) | ✅ [**桑多涅**](sandrone-perspective/SKILL.md) |
 | 班尼特 | 辛焱 | 鹿野院平藏 | 艾尔海森 | ✅ [**阿蕾奇诺**](arlecchino-perspective/SKILL.md) | 伊法 |  |
-| 达达利亚 | ✅ [胡桃](hutao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | 迪希雅 | 克洛琳德 | ✅ [**丝柯克**](skirk-perspective/SKILL.md) |  |
+| 达达利亚 | ✅ [胡桃](hu-tao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | 迪希雅 | 克洛琳德 | ✅ [**丝柯克**](skirk-perspective/SKILL.md) |  |
 | 诺艾尔 | 枫原万叶 | 久岐忍 | 卡维 | 艾梅莉埃 | 伊涅芙 |  |
 | ✅ [**阿贝多**](albedo-perspective/SKILL.md) | 烟绯 | ✅ [**神里绫人**](kamisato-ayato-perspective/SKILL.md) | 赛索斯 | 爱可菲 |  |  |
 | 迪奥娜 | 夜兰 | 千织 |  |  |  |  |
