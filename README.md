@@ -31,34 +31,34 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 
 所属国家/地区按天赋突破材料区分
 
-| 蒙德 | 璃月 | 稻妻 | 须弥 | 枫丹 | 纳塔 | 挪德卡莱 |
-|:-|:-|:-|:-|:-|:-|:-|
-| ✅ [**琴**](jean-perspective/SKILL.md) | ✅ [**香菱**](xiangling-perspective/SKILL.md) | ✅ [**神里绫华**](kamisato-ayaka-perspective/SKILL.md) | ✅ [**柯莱**](collei-perspective/SKILL.md) | ✅ [**琳妮特**](lynette-perspective/SKILL.md) | ✅ [**卡齐娜**](kachina-perspective/SKILL.md) | ✅ [**菈乌玛**](lauma-perspective/SKILL.md) |
-| ✅ [**丽莎**](lisa-perspective/SKILL.md) | ✅ [**北斗**](beidou-perspective/SKILL.md) | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | ✅ [**多莉**](dori-perspective/SKILL.md) | ✅ [**林尼**](lyney-perspective/SKILL.md) | ✅ [**基尼奇**](kinich-perspective/SKILL.md) | ✅ [**菲林斯**](flins-perspective/SKILL.md) |
-| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | ✅ [**行秋**](xingqiu-perspective/SKILL.md) | ✅ [**托马**](thoma-perspective/SKILL.md) | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | ✅ [**菲米尼**](freminet-perspective/SKILL.md) | ✅ [**玛拉妮**](mualani-perspective/SKILL.md) | ✅ [**爱诺**](aino-perspective/SKILL.md) |
-| ✅ [**凯亚**](kaeya-perspective/SKILL.md) | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | ✅ [**莱欧斯利**](wriothesley-perspective/SKILL.md) | ✅ [**希诺宁**](xilonen-perspective/SKILL.md) | ✅ [**奈芙尔**](nefer-perspective/SKILL.md) |
-| ✅ [**迪卢克**](diluc-perspective/SKILL.md) | ✅ [**凝光**](ningguang-perspective/SKILL.md) | ✅ [**早柚**](sayu-perspective/SKILL.md) | ✅ [**赛诺**](cyno-perspective/SKILL.md) | ✅ [**那维莱特**](neuvillette-perspective/SKILL.md) | ✅ [**恰斯卡**](chasca-perspective/SKILL.md) | ✅ [**雅珂达**](jahoda-perspective/SKILL.md) |
-| ✅ [**雷泽**](razor-perspective/SKILL.md) | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | ✅ [**坎蒂丝**](candace-perspective/SKILL.md) | ✅ [**夏洛蒂**](charlotte-perspective/SKILL.md) | ✅ [**欧洛伦**](ororon-perspective/SKILL.md) | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |
-| ✅ [**安柏**](amber-perspective/SKILL.md) | ✅ [**七七**](qiqi-perspective/SKILL.md) | ✅ [**五郎**](gorou-perspective/SKILL.md) | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | ✅ [**叶洛亚**](illuga-perspective/SKILL.md) |
-| ✅ [**温迪**](venti-perspective/SKILL.md) | ✅ [**重云**](chongyun-perspective/SKILL.md) | ✅ [**九条裟罗**](kujou-sara-perspective/SKILL.md) | ✅ [**莱依拉**](layla-perspective/SKILL.md) | ✅ [**夏沃蕾**](chevreuse-perspective/SKILL.md) | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | ✅ [**莉奈娅**](linnea-perspective/SKILL.md) |
-| ✅ [**可莉**](klee-perspective/SKILL.md) | ✅ [**甘雨**](ganyu-perspective/SKILL.md) | ✅ [**荒泷一斗**](arataki-itto-perspective/SKILL.md) | ✅ [**流浪者**](wanderer-perspective/SKILL.md) | ✅ [**娜维娅**](navia-perspective/SKILL.md) | ✅ [**伊安珊**](iansan-perspective/SKILL.md) | ✅ [**尼可**](nicole-perspective/SKILL.md) |
-| ✅ [**菲谢尔**](fischl-perspective/SKILL.md) | ✅ [**刻晴**](keqing-perspective/SKILL.md) | ✅ [**八重神子**](yae-miko-perspective/SKILL.md) | ✅ [**珐露珊**](faruzan-perspective/SKILL.md) | ✅ [**希格雯**](sigewinne-perspective/SKILL.md) | ✅ [**瓦雷莎**](varesa-perspective/SKILL.md) | ✅ [**桑多涅**](sandrone-perspective/SKILL.md) |
-| ✅ [**班尼特**](bennett-perspective/SKILL.md)| ✅ [**辛焱**](xinyan-perspective/SKILL.md) | ✅ [**鹿野院平藏**](shikanoin-heizou-perspective/SKILL.md) | ✅ [**艾尔海森**](alhaitham-perspective/SKILL.md) | ✅ [**阿蕾奇诺**](arlecchino-perspective/SKILL.md) | ✅ [**伊法**](ifa-perspective/SKILL.md) |  |
-| ✅ [**达达利亚**](tartaglia-perspective/SKILL.md) | ✅ [**胡桃**](hu-tao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | ✅ [**迪希雅**](dehya-perspective/SKILL.md) | ✅ [**克洛琳德**](clorinde-perspective/SKILL.md) | ✅ [**丝柯克**](skirk-perspective/SKILL.md) |  |
-| ✅ [**诺艾尔**](noelle-perspective/SKILL.md) | ✅ [**枫原万叶**](kaedehara-kazuha-perspective/SKILL.md) | ✅ [**久岐忍**](kuki-shinobu-perspective/SKILL.md) | ✅ [**卡维**](kaveh-perspective/SKILL.md) | ✅ [**艾梅莉埃**](emilie-perspective/SKILL.md) | ✅ [**伊涅芙**](ineffa-perspective/SKILL.md) |  |
-| ✅ [**阿贝多**](albedo-perspective/SKILL.md) | ✅ [**烟绯**](yanfei-perspective/SKILL.md) | ✅ [**神里绫人**](kamisato-ayato-perspective/SKILL.md) | ✅ [**赛索斯**](sethos-perspective/SKILL.md) | ✅ [**爱可菲**](escoffier-perspective/SKILL.md) |  |  |
-| ✅ [**迪奥娜**](diona-perspective/SKILL.md) | ✅ [**夜兰**](yelan-perspective/SKILL.md) | ✅ [**千织**](chiori-perspective/SKILL.md) |  |  |  |  |
-| 莫娜 | 申鹤 | ✅ [**梦见月瑞希**](yumemizuki-mizuki-perspective/SKILL.md) |  |  |  |  |
-| 砂糖 | 云堇 |  |  |  |  |  |
-| 罗莎莉亚 | 瑶瑶 |  |  |  |  |  |
-| 优菈 | 白术 |  |  |  |  |  |
-| 埃洛伊 | 嘉明 |  |  |  |  |  |
-| 米卡 | 闲云 |  |  |  |  |  |
-| 塔利雅 | 蓝砚 |  |  |  |  |  |
-| 杜林 | 兹白 |  |  |  |  |  |
-| 法尔伽 |  |  |  |  |  |  |
-| 洛恩 |  |  |  |  |  |  |
-| 布伦妮 |  |  |  |  |  |  |
+| 蒙德 | 璃月 | 稻妻 | 须弥 | 枫丹 | 纳塔 | 挪德卡莱 | 至冬 |
+|:-|:-|:-|:-|:-|:-|:-|:-|
+| ✅ [**琴**](jean-perspective/SKILL.md) | ✅ [**香菱**](xiangling-perspective/SKILL.md) | ✅ [**神里绫华**](kamisato-ayaka-perspective/SKILL.md) | ✅ [**柯莱**](collei-perspective/SKILL.md) | ✅ [**琳妮特**](lynette-perspective/SKILL.md) | ✅ [**卡齐娜**](kachina-perspective/SKILL.md) | ✅ [**菈乌玛**](lauma-perspective/SKILL.md) | ✅ [**阿罗夏**](alyosha-perspective/SKILL.md) |
+| ✅ [**丽莎**](lisa-perspective/SKILL.md) | ✅ [**北斗**](beidou-perspective/SKILL.md) | ✅ [**宵宫**](yoimiya-perspective/SKILL.md) | ✅ [**多莉**](dori-perspective/SKILL.md) | ✅ [**林尼**](lyney-perspective/SKILL.md) | ✅ [**基尼奇**](kinich-perspective/SKILL.md) | ✅ [**菲林斯**](flins-perspective/SKILL.md) | ✅ [**奥黛塔**](odette-perspective/SKILL.md) |
+| ✅ [**芭芭拉**](barbara-perspective/SKILL.md) | ✅ [**行秋**](xingqiu-perspective/SKILL.md) | ✅ [**托马**](thoma-perspective/SKILL.md) | ✅ [**提纳里**](tighnari-perspective/SKILL.md) | ✅ [**菲米尼**](freminet-perspective/SKILL.md) | ✅ [**玛拉妮**](mualani-perspective/SKILL.md) | ✅ [**爱诺**](aino-perspective/SKILL.md) |  |
+| ✅ [**凯亚**](kaeya-perspective/SKILL.md) | ✅ [**魈**](xiao-perspective/SKILL.md) | ✅ [**雷电将军**](raiden-shogun-perspective/SKILL.md) | ✅ [**妮露**](nilou-perspective/SKILL.md) | ✅ [**莱欧斯利**](wriothesley-perspective/SKILL.md) | ✅ [**希诺宁**](xilonen-perspective/SKILL.md) | ✅ [**奈芙尔**](nefer-perspective/SKILL.md) |  |
+| ✅ [**迪卢克**](diluc-perspective/SKILL.md) | ✅ [**凝光**](ningguang-perspective/SKILL.md) | ✅ [**早柚**](sayu-perspective/SKILL.md) | ✅ [**赛诺**](cyno-perspective/SKILL.md) | ✅ [**那维莱特**](neuvillette-perspective/SKILL.md) | ✅ [**恰斯卡**](chasca-perspective/SKILL.md) | ✅ [**雅珂达**](jahoda-perspective/SKILL.md) |  |
+| ✅ [**雷泽**](razor-perspective/SKILL.md) | ✅ [**钟离**](zhongli-perspective/SKILL.md) | ✅ [**珊瑚宫心海**](kokomi-perspective/SKILL.md) | ✅ [**坎蒂丝**](candace-perspective/SKILL.md) | ✅ [**夏洛蒂**](charlotte-perspective/SKILL.md) | ✅ [**欧洛伦**](ororon-perspective/SKILL.md) | ✅ [**哥伦比娅**](columbina-perspective/SKILL.md) |  |
+| ✅ [**安柏**](amber-perspective/SKILL.md) | ✅ [**七七**](qiqi-perspective/SKILL.md) | ✅ [**五郎**](gorou-perspective/SKILL.md) | ✅ [**纳西妲**](nahida-perspective/SKILL.md) | ✅ [**芙宁娜**](furina-perspective/SKILL.md) | ✅ [**玛薇卡**](mavuika-perspective/SKILL.md) | ✅ [**叶洛亚**](illuga-perspective/SKILL.md) |  |
+| ✅ [**温迪**](venti-perspective/SKILL.md) | ✅ [**重云**](chongyun-perspective/SKILL.md) | ✅ [**九条裟罗**](kujou-sara-perspective/SKILL.md) | ✅ [**莱依拉**](layla-perspective/SKILL.md) | ✅ [**夏沃蕾**](chevreuse-perspective/SKILL.md) | ✅ [**茜特菈莉**](citlali-perspective/SKILL.md) | ✅ [**莉奈娅**](linnea-perspective/SKILL.md) |  |
+| ✅ [**可莉**](klee-perspective/SKILL.md) | ✅ [**甘雨**](ganyu-perspective/SKILL.md) | ✅ [**荒泷一斗**](arataki-itto-perspective/SKILL.md) | ✅ [**流浪者**](wanderer-perspective/SKILL.md) | ✅ [**娜维娅**](navia-perspective/SKILL.md) | ✅ [**伊安珊**](iansan-perspective/SKILL.md) | ✅ [**尼可**](nicole-perspective/SKILL.md) |  |
+| ✅ [**菲谢尔**](fischl-perspective/SKILL.md) | ✅ [**刻晴**](keqing-perspective/SKILL.md) | ✅ [**八重神子**](yae-miko-perspective/SKILL.md) | ✅ [**珐露珊**](faruzan-perspective/SKILL.md) | ✅ [**希格雯**](sigewinne-perspective/SKILL.md) | ✅ [**瓦雷莎**](varesa-perspective/SKILL.md) | ✅ [**桑多涅**](sandrone-perspective/SKILL.md) |  |
+| ✅ [**安柏**](amber-perspective/SKILL.md) | ✅ [**辛焱**](xinyan-perspective/SKILL.md) | ✅ [**鹿野院平藏**](shikanoin-heizou-perspective/SKILL.md) | ✅ [**艾尔海森**](alhaitham-perspective/SKILL.md) | ✅ [**阿蕾奇诺**](arlecchino-perspective/SKILL.md) | ✅ [**伊法**](ifa-perspective/SKILL.md) |  |  |
+| ✅ [**达达利亚**](tartaglia-perspective/SKILL.md) | ✅ [**胡桃**](hu-tao-perspective/SKILL.md) | ✅ [**绮良良**](kirara-perspective/SKILL.md) | ✅ [**迪希雅**](dehya-perspective/SKILL.md) | ✅ [**克洛琳德**](clorinde-perspective/SKILL.md) | ✅ [**丝柯克**](skirk-perspective/SKILL.md) |  |  |
+| ✅ [**诺艾尔**](noelle-perspective/SKILL.md) | ✅ [**枫原万叶**](kaedehara-kazuha-perspective/SKILL.md) | ✅ [**久岐忍**](kuki-shinobu-perspective/SKILL.md) | ✅ [**卡维**](kaveh-perspective/SKILL.md) | ✅ [**艾梅莉埃**](emilie-perspective/SKILL.md) | ✅ [**伊涅芙**](ineffa-perspective/SKILL.md) |  |  |
+| ✅ [**阿贝多**](albedo-perspective/SKILL.md) | ✅ [**烟绯**](yanfei-perspective/SKILL.md) | ✅ [**神里绫人**](kamisato-ayato-perspective/SKILL.md) | ✅ [**赛索斯**](sethos-perspective/SKILL.md) | ✅ [**爱可菲**](escoffier-perspective/SKILL.md) |  |  |  |
+| ✅ [**迪奥娜**](diona-perspective/SKILL.md) | ✅ [**夜兰**](yelan-perspective/SKILL.md) | ✅ [**千织**](chiori-perspective/SKILL.md) |  |  |  |  |  |
+| 莫娜 | 申鹤 | ✅ [**梦见月瑞希**](yumemizuki-mizuki-perspective/SKILL.md) |  |  |  |  |  |
+| 砂糖 | 云堇 |  |  |  |  |  |  |
+| 罗莎莉亚 | 瑶瑶 |  |  |  |  |  |  |
+| 优菈 | 白术 |  |  |  |  |  |  |
+| 埃洛伊 | 嘉明 |  |  |  |  |  |  |
+| 米卡 | 闲云 |  |  |  |  |  |  |
+| 塔利雅 | 蓝砚 |  |  |  |  |  |  |
+| 杜林 | 兹白 |  |  |  |  |  |  |
+| 法尔伽 |  |  |  |  |  |  |  |
+| 洛恩 |  |  |  |  |  |  |  |
+| 布伦妮 |  |  |  |  |  |  |  |
 
 > ✅ 表示已完成蒸馏，拥有对应 SKILL  
 
