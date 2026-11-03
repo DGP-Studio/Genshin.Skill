@@ -48,7 +48,7 @@ genshin.skill/nicole-perspective/ -> .agents/nicole-perspective/
 | ✅ [**诺艾尔**](noelle-perspective/SKILL.md) | ✅ [**枫原万叶**](kaedehara-kazuha-perspective/SKILL.md) | ✅ [**久岐忍**](kuki-shinobu-perspective/SKILL.md) | ✅ [**卡维**](kaveh-perspective/SKILL.md) | ✅ [**艾梅莉埃**](emilie-perspective/SKILL.md) | ✅ [**伊涅芙**](ineffa-perspective/SKILL.md) |  |  |
 | ✅ [**阿贝多**](albedo-perspective/SKILL.md) | ✅ [**烟绯**](yanfei-perspective/SKILL.md) | ✅ [**神里绫人**](kamisato-ayato-perspective/SKILL.md) | ✅ [**赛索斯**](sethos-perspective/SKILL.md) | ✅ [**爱可菲**](escoffier-perspective/SKILL.md) |  |  |  |
 | ✅ [**迪奥娜**](diona-perspective/SKILL.md) | ✅ [**夜兰**](yelan-perspective/SKILL.md) | ✅ [**千织**](chiori-perspective/SKILL.md) |  |  |  |  |  |
-| 莫娜 | 申鹤 | ✅ [**梦见月瑞希**](yumemizuki-mizuki-perspective/SKILL.md) |  |  |  |  |  |
+| ✅ [**莫娜**](mona-perspective/SKILL.md) | 申鹤 | ✅ [**梦见月瑞希**](yumemizuki-mizuki-perspective/SKILL.md) |  |  |  |  |  |
 | 砂糖 | 云堇 |  |  |  |  |  |  |
 | 罗莎莉亚 | 瑶瑶 |  |  |  |  |  |  |
 | 优菈 | 白术 |  |  |  |  |  |  |
